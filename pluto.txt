@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+I am living on the Earth, a blue planet.
+=======
+It is so a planet!
+
+>>>>>>> de44331d385866e9a761c44e0dc25d2f6f57f840
